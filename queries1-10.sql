@@ -272,7 +272,7 @@ HAVING
 10. From the following table write a query in SQL to find the total quantity for a group of locationid multiplied by 10.
 */
 
---
+--Explorer database
 SELECT
     TABLE_SCHEMA,
     TABLE_NAME,
